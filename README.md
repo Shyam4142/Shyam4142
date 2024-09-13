@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shyam4142
 - 👀 I’m interested in Computer Networks, Machine Learning, and Low Level Programming.
-- 🌱 I’m currently learning React, React Native, and Node.JS.
+- 🌱 I’m currently learning React, React Native, and NodeJS.
 - 💞️ I’m looking to collaborate on web and mobile applications for long term projects or hackathons.
 - 📫 How to reach me: shyamvenk365@gmail.com or LinkedIn
 - ⚡ Fun fact: I enjoy hiking, cycling, gaming, and learning new things. 
