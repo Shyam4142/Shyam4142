@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shyam4142
+- 👋 Hi, I’m Shyam Venkatesan.
 - 👀 I’m interested in Computer Networks, Machine Learning, and Low Level Programming.
 - 🌱 I’m currently learning React, React Native, and NodeJS.
 - 💞️ I’m looking to collaborate on web and mobile applications for long term projects or hackathons.
