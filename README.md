@@ -2,5 +2,5 @@
 - 👀 I’m interested in Computer Networks, Machine Learning, and Low Level Programming.
 - 🌱 I’m currently learning React, React Native, and Node.JS.
 - 💞️ I’m looking to collaborate on web and mobile applications for long term projects or hackathons.
-- 📫 How to reach me: shyamvenk365@gmail.com, Linkedin
-- ⚡ Fun fact: I enjoy hikinh, cycling, gaming, and learning new things. 
+- 📫 How to reach me: shyamvenk365@gmail.com or LinkedIn
+- ⚡ Fun fact: I enjoy hiking, cycling, gaming, and learning new things. 
