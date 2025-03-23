@@ -7,11 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
-- 👨‍💻 All of my projects are available at [https://shyam4142.github.io/](https://shyam4142.github.io/)
-
 - 📫 How to reach me **shyamvenk365@gmail.com**
-
-- 📄 Learn about me [www.linkedin.com/in/shyam-venkatesan-b805b7297](www.linkedin.com/in/shyam-venkatesan-b805b7297)
 
 - ⚡ Fun fact **I enjoy biking and cross-country hiking.**
 
