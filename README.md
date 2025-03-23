@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyam Venkatesan.
-- 👀 I’m interested in Computer Networks, Machine Learning, and Low Level Programming.
-- 🌱 I’m currently learning React, React Native, and NodeJS.
-- 💞️ I’m looking to collaborate on web and mobile applications for long term projects or hackathons.
+- 👀 I’m interested in Machine Learning and Application Development.
+- 🌱 I’m currently learning TensorFlow and Flask.
+- 💞️ I’m looking to collaborate on Hackathons. 
 - 📫 How to reach me: shyamvenk365@gmail.com or LinkedIn
-- ⚡ Fun fact: I enjoy hiking, cycling, gaming, and learning new things. 
+- ⚡ Fun fact: I enjoy cycling and back-country hiking.
