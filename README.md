@@ -5,7 +5,6 @@
 - ⏰ I'm currently working on **Guess Masters**
 - 🌱 I’m currently learning **Tensorflow and Flask**
 - 👯 I’m looking to collaborate on **Hackathons**
-- 📫 How to reach me: **shyamvenk365@gmail.com**
 - ⚡ Fun fact: I enjoy **biking** and **cross-country hiking**
 
 ### 💻 Tech Stack:
